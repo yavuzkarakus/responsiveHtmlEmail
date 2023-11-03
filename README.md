@@ -8,7 +8,7 @@
 
 ## Project Screenshot
 
-![E-mail Screenshot]()
+![E-mail Screenshot](https://github.com/yavuzkarakus/responsiveHtmlEmail/blob/master/responsive-html-email.png)
 
 ## Project Features
 
