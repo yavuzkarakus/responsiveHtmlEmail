@@ -12,6 +12,7 @@
 
 ## Project Features
 
+🚀 The key features of this project are as follows:
 - Provides a responsive HTML email design.
 - Utilizes inline CSS and internal CSS.
 - Mobile-friendly responsive design.
